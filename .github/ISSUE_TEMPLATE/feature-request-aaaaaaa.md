@@ -1,8 +1,8 @@
 ---
 name: Feature request aaaaaaa
 about: Suggest an idea for this project aaabbb
-title: ''
-labels: enhancement, wontfix
+title: "[hogeo]"
+labels: enhancement, wontfix, hogesc
 assignees: ''
 
 ---
