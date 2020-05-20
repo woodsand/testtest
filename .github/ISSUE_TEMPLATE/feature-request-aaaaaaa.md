@@ -2,8 +2,8 @@
 name: Feature request aaaaaaa
 about: Suggest an idea for this project aaabbb
 title: "[hogeo]"
-labels: enhancement, wontfix, hogesc
-assignees: ''
+labels: enhancement, hogesc, wontfix
+assignees: woodsand
 
 ---
 
