@@ -2,7 +2,7 @@
 name: label Feature request
 about: Suggest an idea for this project
 title: ''
-labels: bug, documentation, duplicate, enhancement, help wanted, good first issue
+labels: bug, documentation, duplicate, enhancement, good first issue, help wanted
 assignees: ''
 
 ---
